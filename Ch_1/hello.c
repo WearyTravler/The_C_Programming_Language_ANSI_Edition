@@ -4,6 +4,6 @@ main()
 {
     printf("Hello,\n");
     printf("World");
-    printf("Hello, World"); // \c does nothing lol
+    printf("Hello, World\c"); // \c does nothing lol
 }
 
